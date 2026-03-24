@@ -1,0 +1,7 @@
+{
+  "bag_file": "/media/orin/507e0e0d-27e7-4f8b-bb76-b43c2c327ca5/home/orin/bags/corridor_e2e/run01/run01.bag",
+  "image_topic": "/camera/color/image_raw",
+  "cmd_topic": "/jackal_velocity_controller/cmd_vel_out",
+  "cmd_msg_type": "geometry_msgs/TwistStamped",
+  "odom_topic": "/odometry/filtered"
+}
